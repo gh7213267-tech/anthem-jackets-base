@@ -1,4 +1,4 @@
---*TU 1.4.1*--
+--*TU 1.6.6*--
 
 local anthemJacket = {
 	-- JACKETS
